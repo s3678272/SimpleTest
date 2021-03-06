@@ -1,4 +1,4 @@
-Today is Sunday. 
+Today is Sunday. Today is not Sunday.
 
 This is week one on 2021 semester one. That's good.
 
